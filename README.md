@@ -42,13 +42,13 @@ This React Native app allows users to manage a product inventory and calculate t
 
  
 
-            Additional Notes:
+    Additional Notes:
       The Add Product form allows users to input product details (name, price, quantity).
       Products can be sorted by price or quantity, and can also be deleted from the inventory.
       The Missing Number feature calculates the missing number in a given sequence of numbers.
       The app also shows whether "Headphones" are in stock or not.
 
-        Challenges and Notes:
+   Challenges and Notes:
       State Management: One challenge was managing the state for the product list, handling additions, deletions, and updates efficiently.
       UI Adjustments: Ensuring that the UI is responsive and that the "Add Product" form doesn’t overlap with other UI elements when visible was a challenge.
       Missing Number Calculation: The missing number functionality required careful handling of edge cases, such as when there is only one number or when the input is incomplete.
