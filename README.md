@@ -53,3 +53,6 @@ This React Native app allows users to manage a product inventory and calculate t
       UI Adjustments: Ensuring that the UI is responsive and that the "Add Product" form doesn’t overlap with other UI elements when visible was a challenge.
       Missing Number Calculation: The missing number functionality required careful handling of edge cases, such as when there is only one number or when the input is incomplete.
       Input Validation: Validating user inputs in forms (e.g., price and quantity) to ensure they are valid numbers was another challenge.
+
+
+link Demo App : https://youtu.be/4s-ves3sPWw
